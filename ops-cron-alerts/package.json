@@ -1,0 +1,2 @@
+{ "name": "ops-cron-alerts", "private": true, "type": "module",
+  "scripts": { "test": "node --test test/*.test.js", "dry-run": "node lead-age-alert.mjs --leads sample/leads.json --dry-run && node scoreboard.mjs --leads sample/leads.json --sales sample/sales.csv --dry-run" } }

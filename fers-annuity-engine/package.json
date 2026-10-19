@@ -1,0 +1,1 @@
+{ "name": "fers-annuity-engine", "private": true, "type": "module", "scripts": { "test": "node --test test/*.test.js" } }

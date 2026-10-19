@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Sam Rivera",
+    "status": "new",
+    "ts": "2026-10-14T09:20:19.691Z"
+  },
+  {
+    "name": "Sam Lee",
+    "status": "new",
+    "ts": "2026-10-14T09:20:19.691Z"
+  },
+  {
+    "name": "Alex Park",
+    "status": "new",
+    "ts": "2026-10-16T09:20:19.691Z"
+  },
+  {
+    "name": "Jo Kim",
+    "status": "contacted",
+    "ts": "2026-10-10T09:20:19.691Z"
+  },
+  {
+    "name": "Pat Doe",
+    "status": "new",
+    "ts": "2026-10-19T04:32:19.691Z"
+  }
+]
